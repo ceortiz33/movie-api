@@ -1,0 +1,17 @@
+{
+	"movies": [
+	    {
+		"id": 0,
+		"name": "The Amazing Spiderman",
+		"image_poster_url": "https://t.co/vaD6qjKBKq?amp=1",
+		"trailer_url": "https://t.co/0jhUaK606S?amp=1"
+
+	    },
+	    {
+		"id": 1,
+                "name": "The Amazing Spiderman 2",
+                "image_poster_url": "https://t.co/vaD6qjKBKq?amp=1",
+                "trailer_url": "https://t.co/0jhUaK606S?amp=1"
+	    }
+	]
+}
